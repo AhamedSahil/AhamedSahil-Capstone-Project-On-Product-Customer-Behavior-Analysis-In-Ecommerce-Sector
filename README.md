@@ -13,3 +13,4 @@ Welcome to the E-commerce Data for Product and Customer Behavior Analysis reposi
 [Python Script (Code)](https://github.com/AhamedSahil/Capstone-Project-On-Product-Customer-Behavior-Analysis-In-Ecommerce-Sector/blob/64e5b62583f32b16eec31e08449cca43b6ed1f0f/Final_capstone_script.ipynb)
 
 [ppt](https://github.com/AhamedSahil/Capstone-Project-On-Product-Customer-Behavior-Analysis-In-Ecommerce-Sector/blob/64e5b62583f32b16eec31e08449cca43b6ed1f0f/E-Commerce%20Retail%20data%20analysis.pptx)
+
